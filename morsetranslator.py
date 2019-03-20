@@ -42,8 +42,6 @@ morsedict = {
 
 }
 
-# Global vars
-stripCheck = False # Becomes true if non-alphanumeric characters were stripped
 
 # For finding letter associated with morse string
 def getLetter(searchValue):
